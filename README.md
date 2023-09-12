@@ -31,3 +31,14 @@ Next, let's proceed with running the client side:
 If everything is done correctly, you will receive a message from Vite indicating that the app is hosted on "http://localhost:5173/". Click on this link to open the application in your browser and explore its features.
 
 Please note that if you encounter any issues, make sure to double-check the installation steps and verify that all dependencies are properly installed. Happy Coding!
+
+<b>Login Page using auth0</b> <br />
+<img src="https://github.com/ashishrout-tech/Chat-app/assets/77796540/859f1122-0a8c-45ad-9aaf-d404545a87d0" width="400" /> <br />
+
+<b>Join any room or create a new room</b> <br />
+<img src="https://github.com/ashishrout-tech/Chat-app/assets/77796540/edb0f7eb-a2e4-44c9-9f13-0e3656d53369" width="800" /> <br />
+
+<b>Continue Chatting. All Chats will be stored in server for each room, so that you can continue even after logging out</b> <br />
+<img src="https://github.com/ashishrout-tech/Chat-app/assets/77796540/48d4c02f-d0c7-4113-b72e-72dd01619126" width="1300" />
+
+
