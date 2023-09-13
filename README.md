@@ -1,4 +1,18 @@
 # Chat-app
+<b>Login Page using auth0</b> <br />
+<img src="https://github.com/ashishrout-tech/Chat-app/assets/77796540/859f1122-0a8c-45ad-9aaf-d404545a87d0" width="400" /> <br />
+
+<b>Join any room or create a new room</b> <br />
+<img src="https://github.com/ashishrout-tech/Chat-app/assets/77796540/edb0f7eb-a2e4-44c9-9f13-0e3656d53369" width="800" /> <br />
+
+<b>Continue Chatting. All Chats will be stored in server for each room, so that you can continue even after logging out</b> <br />
+<img src="https://github.com/ashishrout-tech/Chat-app/assets/77796540/48d4c02f-d0c7-4113-b72e-72dd01619126" width="1300" />
+
+<br /> <br />
+
+
+
+
  Little bit about this app:
 
 The app allows users to create chat rooms and engage in real-time communication with other participants within the same room. Messages sent by the user will be displayed in a red bubble for all other participants in the chat room. However, when a user sends a message, they will see their own messages indicated in a green bubble. Messages sent by other participants will also be shown in red bubbles, along with the name of the sender.
